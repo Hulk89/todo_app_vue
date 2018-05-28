@@ -31,7 +31,7 @@ export default {
 
 <style scoped>
     input:focus {
-        outline: none;
+        outline: none;  /* 파란색 selected 표시를 없애줌 */
     }
     .inputBox {
         background:white;

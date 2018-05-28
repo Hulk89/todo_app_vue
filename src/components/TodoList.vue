@@ -47,7 +47,7 @@ ul {
     text-align: left;
 }
 li {
-    display: flex;
+    display: flex; /* 왼쪽부터 오른쪽으로 자식 노드를 정렬해주는 듯... */
     min-height: 50px;
     height: 50px;
     line-height: 50px;
