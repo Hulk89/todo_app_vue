@@ -55,6 +55,7 @@ li {
     padding: 0 0.9rem;
     background: white;
     border-radius: 5px;
+    font-family: Nanum Gothic;
 }
 .checkBtn {
     line-height: 45px;

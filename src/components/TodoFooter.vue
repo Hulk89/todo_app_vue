@@ -1,6 +1,6 @@
 <template>
     <div class="clearAllContainer">
-        <span class="clearAllBtn" @click="clearTodo">Clear All</span>
+        <span class="clearAllBtn" @click="clearTodo">전부 지우기!</span>
     </div>
 </template>
 
@@ -25,6 +25,7 @@ export default {
 }
 .clearAllBtn {
     color: #e20303;
-    display: black;
+    display: block;
+    font-family: Nanum Gothic;
 }
 </style>
